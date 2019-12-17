@@ -1,0 +1,16 @@
+﻿  CMscnProblem.cpp
+  MSCNProblem.cpp
+  Mother.cpp
+c:\users\pawel\source\repos\mscnproblem\mscnproblem\mother.cpp(42): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\pawel\source\repos\mscnproblem\mscnproblem\mother.cpp(62): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\pawel\source\repos\mscnproblem\mscnproblem\mother.cpp(82): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  MyTab.cpp
+c:\users\pawel\source\repos\mscnproblem\mscnproblem\mytab.cpp(49): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+c:\users\pawel\source\repos\mscnproblem\mscnproblem\mother.cpp(192): warning C4715: "Mother::addOneAndRandom_OY”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\pawel\source\repos\mscnproblem\mscnproblem\mother.cpp(182): warning C4715: "Mother::addOneAndRandom_OX”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\pawel\source\repos\mscnproblem\mscnproblem\cmscnproblem.cpp(85): warning C4715: "CMscnProblem::addSupp”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\pawel\source\repos\mscnproblem\mscnproblem\cmscnproblem.cpp(104): warning C4715: "CMscnProblem::addFact”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\pawel\source\repos\mscnproblem\mscnproblem\cmscnproblem.cpp(118): warning C4715: "CMscnProblem::addWare”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\pawel\source\repos\mscnproblem\mscnproblem\cmscnproblem.cpp(130): warning C4715: "CMscnProblem::addShop”: niewszystkie ścieżki kodu zwracają wartość
+  MSCNProblem.vcxproj -> C:\Users\pawel\source\repos\MSCNProblem\Debug\MSCNProblem.exe
